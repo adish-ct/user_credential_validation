@@ -1,1 +1,10 @@
 
+<div class="col-md-6 mt-4 pt-2">
+    <button class="btn btn-warning w-100" onclick="return validateForm()" type="submit">
+        Register
+    </button>
+</div>
+
+
+
+you have to call the validateForm() in HTML.
